@@ -1,2 +1,6 @@
-# EAS-PPB-B
-EAS PPB B - Mitra iSaku
+
+
+```
+Copyright (C) Javier Nararya Aqsa S 5025211245
+
+``` 
